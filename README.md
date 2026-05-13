@@ -1,6 +1,3 @@
 <p align="center">
-<img src="https://github.com/ekisu/ekisu/assets/5082637/fd8c7740-f3e0-4883-93c1-bfad59f78a9c"></img>
+<img width="500" src="https://github.com/user-attachments/assets/0852e4f5-7e11-40d7-b1f6-46c466bb8909" />
 </p>
-
-
-<p align="center">ooooba!</p>
